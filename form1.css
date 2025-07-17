@@ -1,0 +1,19 @@
+.transparent-form {
+    background: rgba(255, 255, 255, 0.2); /* Almost fully transparent */
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    border: 1px solid #fff;
+}
+body {
+    background-image: url('logo1.png');
+    background-size: cover;
+    background-position: center;
+}
+form {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+}
