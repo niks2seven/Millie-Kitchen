@@ -6,8 +6,8 @@ Welcome to **Millie’s Kitchen** — a responsive and stylish digital restauran
 
 ## 🔗 Live Preview
 
-[View Live Site](https://your-username.github.io/millies-kitchen/)  
-*Replace `your-username` with your GitHub username after deploying via GitHub Pages.*
+[View Live Site](https://niks2seven.github.io/Millie-Kitchen/)  
+
 
 ---
 
